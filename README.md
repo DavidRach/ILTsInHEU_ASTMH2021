@@ -1,2 +1,34 @@
-# ILTsInHEU_ASTMH2021
-First "conference" post at UMB
+# Abstract
+
+**INNATE-LIKE T CELL RESPONSES IN HIV EXPOSED UNINFECTED MALAWIAN INFANTS**
+
+David Thomas Rach1, Hao-Ting Hsu2, Nginache Nampota3, Godfrey Mvula3, Franklin R. Toapanta4, Marcelo B. Sztein4, Miriam Laufer4, Kirsten E. Lyke4, Cristiana Cairo2
+
+*1 Molecular Microbiology and Immunology Graduate Program, University of Maryland School of Medicine, Baltimore, MD, United States, 2 Institute for Human Virology, University of Maryland School of Medicine, Baltimore, MD, United States, 3 Blantyre Malaria Project, University of Malawi College of Medicine, Blantyre, Malawi, 4 Center for Vaccine Development and Global Health, University of Maryland School of Medicine, Baltimore, MD, United States*
+
+Each year, an estimated 1.5 million HIV+ women give birth. Increased access to antiretroviral therapy (ART) ensures most infants born to HIV+ women do not contract the infection vertically, and thus remain HIV exposed but uninfected (HEU). During their first year of life, HEU infants exhibit increased rates of lower respiratory tract infections and diarrheal diseases, compared to HIV unexposed (HU) infants. It is hypothesized that exposure to HIV (and ART) before birth perturbs the developing fetal immune system by increasing inflammation at the fetal-maternal interface and induces long term effects that contribute to the increased infectious morbidity in HEU infants. The specific immunologic mechanisms behind this clinical outcome remain unclear. Among the subsets that may be perturbed by increased inflammation, innate-like T cells (γδ, MAIT, NKT cells) may play an important role against pathogens in early life. We hypothesize that prenatal HIV exposure results in early life activation of innate-like T cell subsets. Utilizing a well-characterized cohort of Malawianinfants, we compare three groups of infants born to women with: 1) HIV infection but undetectable viremia through pregnancy (HEU-lo); 2) HIV infection diagnosed at mid-gestation or later, with high viral loads (HEUhi); 3) no HIV infection (HU). A preliminary analysis of cord blood Vδ2 T cells suggests that production of Th1 cytokines in response to polyclonal stimulation is increased in HEU neonates. The frequency of TNFα+ Vδ2 T cells is highest in HEU-hi neonates, while the frequency of polyfunctional (IFNγ+TNFα+) Vδ2 cells is highest in HEU-lo neonates. These findings, if confirmed, would suggest that exposure to replicating maternal HIV results in more robust TNFα production, while prolonged exposure to ART in HEU-lo neonates may contribute to the observed differences in Vδ2 cells polyfunctionality. This study provides an opportunity to assess immune perturbation of innate-like subsets in HEU infants, contributing to our understanding of immune responses and mechanisms of increased infectious morbidity in this vulnerable population.
+
+# Slides
+
+This is the repository for our ASTMH 2021 "ILTs in HEU" virtual poster. 
+
+Click [here](/DavidRach_ASTMH2021.pdf) to navigate to the .pdf of the poster, which can be downloaded. 
+
+For our Cytometry in R course, click [here](https://umgcccfcsr.github.io/CytometryInR/course/). 
+
+For the InstrumentQC dashboard how-to website, click [here](https://davidrach.github.io/InstrumentQC_Install/)
+
+Click [here](https://github.com/DavidRach/Luciernaga) for information about the Luciernaga R package. 
+
+For information about our Coereba R package, click [here](https://github.com/DavidRach/Coereba)
+
+
+# GitHub Repository organization. 
+
+Within this GitHub repository due to size limits, we are unable to provide the .svg files that were used to create the poster in [Inkscape](https://inkscape.org/), feel free to reach out to the UMGCCC Flow Cytometry Shared Resource email ("flowcore", "@", "som.umaryland.edu") to get a sharable copy. 
+
+The code to generate QR codes and extract survey comments in R can be found under the code_poster folder. Actual QR codes generated can be found under outputs folder. Images used that were brought in from other sources can be found in the images folder. 
+
+# License
+
+In our commitment to open-science and open-source, all teaching materials are freely offered under a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license, while all code examples are offered under the [AGPL3-0](https://www.gnu.org/licenses/agpl-3.0.en.html) copyleft license. 
